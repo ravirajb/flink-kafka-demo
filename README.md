@@ -1,0 +1,1 @@
+Sample Flink project that reads messages from kafka topic and pushes to kafka topic
